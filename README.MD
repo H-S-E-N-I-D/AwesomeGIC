@@ -38,10 +38,9 @@ GICBankingApp is a simple console-based banking system that handles operations o
 4. Open `index.html` in a web browser to check the test coverage.
 
 ## Steps to Run the Executable File
-1. Download `GICBankingApp.zip` and extract it into your workspace.
-2. Navigate to the `GICBankingApp` folder.
-3. Locate the `run-gic-banking-app.bat` file.
-4. Double-click on `run-gic-banking-app.bat` to execute the application.
+1. Navigate to the `AwesomeGIC/exec/` folder in the downloaded repository.
+2. Locate the `run-gic-banking-app.bat` file.
+3. Double-click on `run-gic-banking-app.bat` to execute the application.
 
 ## Sample Inputs
 
